@@ -30,7 +30,9 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 ### 🏆 Troféus:
 
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
+  <a href="https://github.com/CavalcantePedro">
+    <img height="170em" src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
+  </a>
 </div>
 
 ---
