@@ -2,7 +2,8 @@
 Olá! 👋 </br> Me chamo Pedro Cavalcante.
 </h1>
 
----
+
+### 🙋‍♂️Sobre mim:
 
 - 🚴‍♀️Ciclista nas horas vagas
 - 🎓Graduando em Engenharia de Computação (`UFPB`)
