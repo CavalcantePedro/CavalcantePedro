@@ -4,9 +4,9 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 
 ---
 
-- 🎮Técnico em desenvolvimento em jogos digitais (`ETE-Cícero Dias `)
-- 🎓Graduando em Engenharia de Computação (`UFPB`)
 - 🚴‍♀️Ciclista nas horas vagas
+- 🎓Graduando em Engenharia de Computação (`UFPB`)
+- 🎮Técnico em desenvolvimento em jogos digitais (`ETE-Cícero Dias `)
 
 
 ### 🌍 Onde me encontrar:
@@ -31,7 +31,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 
 <div align='center'>
   <a href="https://github.com/CavalcantePedro">
-    <img height="170em" src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
+    <img height="160em" src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
   </a>
 </div>
 
