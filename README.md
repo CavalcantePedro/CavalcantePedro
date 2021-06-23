@@ -50,6 +50,9 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   </a>
 </div>
 
+
+![SnakeAnimation](https://github.com/CavalcantePedro/CavalcantePedro/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=CavalcantePedro&color=ff69b4&style=flat-square)
