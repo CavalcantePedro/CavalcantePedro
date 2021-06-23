@@ -18,6 +18,8 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.ricardo@academico.ufpb.br)
 </div>
 
+### 📈 Estatisticas:
+
 <p align="center">
   <a href="https://github.com/CavalcantePedro">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
@@ -25,7 +27,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   </a>
 </p>
 
-### 🏆Troféus:
+### 🏆 Troféus:
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
