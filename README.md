@@ -8,15 +8,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 - 🎓Graduando em Engenharia de Computação (`UFPB`)
 - 🚴‍♀️Ciclista nas horas vagas
 
-</br></br>
-
-<p align="center">
-  <a href="https://github.com/CavalcantePedro">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
-  </a>
-</p>
-
+</br>
 ### 🌍 Onde me encontrar:
 
 <div align='center'>
@@ -25,6 +17,15 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedr0cavalcante/)
   [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.ricardo@academico.ufpb.br)
 </div>
+
+<p align="center">
+  <a href="https://github.com/CavalcantePedro">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
+  </a>
+</p>
+
+
 
 ### 🏆Troféus:
 
