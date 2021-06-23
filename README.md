@@ -7,7 +7,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 
 - 🚴‍♀️Ciclista nas horas vagas
 - 🎓Graduando em Engenharia de Computação (`UFPB`)
-- 🎮Técnico em desenvolvimento em jogos digitais (`ETE-Cícero Dias `)
+- 🎮Técnico em desenvolvimento em jogos digitais (`ETE-Cícero Dias`)
 
 
 ### 🌍 Onde me encontrar:
