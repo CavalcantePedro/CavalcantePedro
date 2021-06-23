@@ -31,7 +31,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 
 <div align='center'>
   <a href="https://github.com/CavalcantePedro">
-    <img height="160em" src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
+    <img  src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
   </a>
 </div>
 
