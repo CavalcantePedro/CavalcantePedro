@@ -40,6 +40,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark%20AR-purple?style=for-the-badge&logo=sparkar&logoColor=white)
 
 
 ### 🏆 Troféus:
