@@ -50,7 +50,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   </a>
 </div>
 
-### 🐍Commits do ano atual:
+### 🐍 Commits do ano atual:
 ![SnakeAnimation](https://github.com/CavalcantePedro/CavalcantePedro/blob/output/github-contribution-grid-snake.svg)
 
 ---
