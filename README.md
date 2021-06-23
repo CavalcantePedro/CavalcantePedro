@@ -16,9 +16,9 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   </a>
 </p>
 
+###🌍 Onde me encontrar:
 
 <div align='center'>
-🌍 Onde me encontrar:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cavalcante-898242185/)
   [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedr0cavalcante/)
