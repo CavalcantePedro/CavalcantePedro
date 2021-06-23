@@ -19,6 +19,17 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.ricardo@academico.ufpb.br)
 </div>
 
+### 📈 Estatisticas:
+
+<p align="center">
+  <a href="https://github.com/CavalcantePedro">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
+    
+    
+  </a>
+</p>
+
 ### 🔧 Tools:
 
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,17 +41,6 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello&logoColor=white)
 
-
-### 📈 Estatisticas:
-
-<p align="center">
-  <a href="https://github.com/CavalcantePedro">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
-    
-    
-  </a>
-</p>
 
 ### 🏆 Troféus:
 
