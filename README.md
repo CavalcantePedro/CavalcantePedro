@@ -11,8 +11,8 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CavalcantePedro&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
 
 ---
 <h5>🌍 Onde me encontrar:</h5>
