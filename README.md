@@ -8,7 +8,6 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 - 🎓Graduando em Engenharia de Computação (`UFPB`)
 - 🚴‍♀️Ciclista nas horas vagas
 
-</br>
 
 ### 🌍 Onde me encontrar:
 
@@ -25,8 +24,6 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
   </a>
 </p>
-
-
 
 ### 🏆Troféus:
 
