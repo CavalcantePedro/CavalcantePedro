@@ -9,6 +9,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 - 🚴‍♀️Ciclista nas horas vagas
 
 </br>
+
 ### 🌍 Onde me encontrar:
 
 <div align='center'>
@@ -29,7 +30,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 
 ### 🏆Troféus:
 
-<div>
+<div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
 </div>
 
