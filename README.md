@@ -8,6 +8,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
 - 🎓Graduando em Engenharia de Computação (`UFPB`)
 - 🚴‍♀️Ciclista nas horas vagas
 
+</br></br>
 
 <p align="center">
   <a href="https://github.com/CavalcantePedro">
