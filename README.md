@@ -30,7 +30,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   </a>
 </p>
 
-### 🔧 Tools:
+### 🔧 Ferramentas que utilizo:
 
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,7 +51,7 @@ Olá! 👋 </br> Me chamo Pedro Cavalcante.
   </a>
 </div>
 
-### 🐍 Commits do ano atual:
+### 🐍 Commits Anual:
 ![SnakeAnimation](https://github.com/CavalcantePedro/CavalcantePedro/blob/output/github-contribution-grid-snake.svg)
 
 ---
