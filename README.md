@@ -8,6 +8,7 @@ Olá! <img src = "./hi.gif" width="30px"> </br> Me chamo Pedro Cavalcante.
 - 🚴‍♀️Ciclista nas horas vagas
 - 🎓Graduando em Engenharia de Computação (`UFPB`)
 - 🎮Técnico em desenvolvimento em jogos digitais (`ETE-Cícero Dias`)
+- 👨‍🏫Professor de programação e robótica [(`CtrlPlay`)](https://ctrlplay.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=%2827.05.21%29%20Institucional&gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDq4LPAGMf30i-fkgRCQazQHfDe-OXOY0WkQtWpWH5nE28nQ2tz-KXxoCxk0QAvD_BwE)
 
 
 ### 🌍 Onde me encontrar:
