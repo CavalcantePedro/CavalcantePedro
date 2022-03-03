@@ -42,6 +42,8 @@ Olá! <img src = "./hi.gif" width="30px"> </br> Me chamo Pedro Cavalcante.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark%20AR-purple?style=for-the-badge&logo=sparkar&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-blue?style=for-the-badge&logo=godotengine&logoColor=white)
+![Scratch](https://img.shields.io/badge/-Scracth-orange?style=for-the-badge&logo=scratch&logoColor=white)
 
 
 ### 🏆 Troféus:
