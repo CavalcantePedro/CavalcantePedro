@@ -1,5 +1,5 @@
 <h1 align='center'>
-Olá! <img src = "./hi.gif" width="5px"> </br> Me chamo Pedro Cavalcante.
+Olá!  </br> Me chamo Pedro Cavalcante.
 </h1>
 
 
