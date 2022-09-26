@@ -31,22 +31,6 @@ Olá!  </br> Me chamo Pedro Cavalcante.
   </a>
 </p>
 
-### 🔧 Ferramentas que utilizo:
-
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark%20AR-purple?style=for-the-badge&logo=sparkar&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-blue?style=for-the-badge&logo=godotengine&logoColor=white)
-![Scratch](https://img.shields.io/badge/-Scracth-orange?style=for-the-badge&logo=scratch&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 🏆 Troféus:
 
