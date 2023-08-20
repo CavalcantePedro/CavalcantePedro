@@ -27,8 +27,6 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 <p align="center">
   <a href="https://github.com/CavalcantePedro">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=radical&layout=compact" />
-    
-    
   </a>
 </p>
 
