@@ -25,6 +25,9 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 ---
 
 ### 🛠️ Linguagens e ferramentas:
+
+<div align='center'>
+  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-05e885?style=for-the-badge&logo=c&logoColor=white)
@@ -50,7 +53,7 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 ![Drive](https://img.shields.io/badge/Drive-3ca67d?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-c99d18?style=for-the-badge&logo=scratch&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-3e95ed?style=for-the-badge&logo=trello&logoColor=white)
-
+  </div>
 <!--
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
