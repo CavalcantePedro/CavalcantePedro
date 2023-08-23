@@ -88,11 +88,6 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 
 ## 🌍 Onde me encontrar:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cavalcante-898242185/)  [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=flat&logo=gmail&logoColor=white)](mailto:pedro.ricardo@academico.ufpb.br)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=CavalcantePedro&color=ff69b4&style=flat-square)
-
-
-
-
 
 
 
