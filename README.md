@@ -60,14 +60,13 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 
 ## 📈 Estatisticas:
 
-<p align="center">
-  <a href="https://github.com/CavalcantePedro">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=dark&layout=compact" />
-  </a>
-  <a href="https://github.com/CavalcantePedro">
-    <img height="170em" src="http://github-readme-streak-stats.herokuapp.com/?user=CavalcantePedro&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2"/>
-    </a>
-</p>
+<div align="center">
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cavalcantepedro&theme=dark&hide_border=false&border_radius=5.2&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CavalcantePedro&theme=dark&layout=compact)
+    
+</div>
 
 ---
 
@@ -75,7 +74,7 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 
 <div align='center'>
   <a href="https://github.com/CavalcantePedro">
-    <img  src="https://github-profile-trophy.vercel.app/?username=CavalcantePedro&theme=radical&margin-w=3&margin-h=15"/>
+    <img  src="https://github-profile-trophy.vercel.app/?username=cavalcantepedro&theme=onestar&margin-w=10&margin-h=15&no-frame=true"/>
   </a>
 </div>
 
