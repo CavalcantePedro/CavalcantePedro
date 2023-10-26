@@ -50,6 +50,9 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 ![Drive](https://img.shields.io/badge/Drive-3ca67d?style=flat&logo=googledrive&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-c99d18?style=flat&logo=scratch&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-3e95ed?style=flat&logo=trello&logoColor=white)
+![HDL](https://img.shields.io/badge/HDL-2b875c?style=flat&logo=vhdl&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-dd3224?style=flat&logo=vhdl&logoColor=white)
+
   </div>
 <!--
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
