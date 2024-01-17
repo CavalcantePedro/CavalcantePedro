@@ -15,7 +15,6 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 
 👨‍🏫Professor de programação [(`CODE`)](https://funetec.com/code)
 
-👨‍💻 Game Dev [(`RevigoradaMente`)](https://revigoradamente.com.br/)
   
 </div>
 
