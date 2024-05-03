@@ -51,10 +51,10 @@ Olá!  </br> Me chamo Pedro Cavalcante.
 ![Trello](https://img.shields.io/badge/Trello-3e95ed?style=flat&logo=trello&logoColor=white)
 ![HDL](https://img.shields.io/badge/HDL-2b875c?style=flat&logo=vhdl&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-dd3224?style=flat&logo=vhdl&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
   </div>
 <!--
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 -->
 
